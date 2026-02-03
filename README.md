@@ -95,7 +95,12 @@ My name is Enzo and I'm a Software Engineering student and Full-Stack Developer,
 <h2 align="left">Let's connect</h2>
 
 ###
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
 <p align="left">
 📫 Feel free to check my repositories or get in touch!
 </p>
+
